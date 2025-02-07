@@ -69,7 +69,7 @@ _Another cool project description with tech highlights._
 
 ## 📬 Let's Connect!
 
-💼 **LinkedIn**: [https://www.linkedin.com/in/jonathan-kaula-7a3222349/]
+💼 **LinkedIn**: []https://www.linkedin.com/in/jonathan-kaula-7a3222349/
 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com/)  
 📧 **Email**: jonathankaula1@gmail.com  
 
