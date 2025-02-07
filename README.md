@@ -1,5 +1,6 @@
 <!-- JONATHAN KAULA KILONZO -->
-# 🚀 [JONATHAN KAULA KILONZO] - Data Scientist | ML Expert | AI Enthusiast 
+# 🚀 <span style="color:#ff6600; font-family: 'Arial Black', sans-serif;">JONATHAN KAULA KILONZO</span> - Data Scientist | ML Expert | AI Enthusiast
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://in.com/in/jonathan-kaula-7a3222349/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://yourportfolio.com/)
